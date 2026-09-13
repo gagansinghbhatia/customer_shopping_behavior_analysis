@@ -1,6 +1,3 @@
-# customer_shopping_behavior_analysis
-Data analytics project showcasing behavior analysis using Python, SQL and Power BI
-
 # Data Analytics Project
 
 ## Overview
