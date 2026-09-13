@@ -167,7 +167,7 @@ Users can interact with filters and visualisations to explore different segments
 
 **Dashboard Preview:**
 
-*Add dashboard screenshot here.*
+
 
 ---
 
