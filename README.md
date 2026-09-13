@@ -167,7 +167,7 @@ Users can interact with filters and visualisations to explore different segments
 
 **Dashboard Preview:**
 
-
+[![Customer Shopping Behavior Dashboard](images/Customer_Behavior_Analysis_Dashboard_PowerBI.png)](images/Customer_Behavior_Analysis_Dashboard_PowerBI.png)
 
 ---
 
